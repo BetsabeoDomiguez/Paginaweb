@@ -1,0 +1,17 @@
+body{ color:371777;
+    /*pner color al fondo del la pagina*/
+    background-color: bisque;
+    /*cambair la letra de la pagina*/
+    font-family:'Pacifico', cursive;
+ }
+ h1{
+    color:cf8d2e;
+    font-size: 50px; 
+ }
+img{
+    width:300px; /*ancho de imagen*/
+    height:500px; 
+}
+footer{
+    background-color:caccd1 ;
+}
